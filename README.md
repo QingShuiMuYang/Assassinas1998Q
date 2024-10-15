@@ -1,2 +1,2 @@
-# Assassinas1998Q
-Just for fun
+# Zephyr
+debug for shell scripts
